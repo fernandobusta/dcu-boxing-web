@@ -4,7 +4,6 @@ import clsx from "clsx";
 
 import { Container } from "../../../components/Container";
 import { InstagramIcon, XIcon } from "../../../components/SocialIcons";
-import portraitImage from "../../../images/portrait.jpg";
 
 import TranslationsProvider from "../../../components/TranslationsProvider";
 import initTranslations from "../../i18n";

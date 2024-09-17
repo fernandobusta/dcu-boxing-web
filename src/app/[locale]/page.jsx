@@ -5,6 +5,7 @@ import clsx from "clsx";
 import { Button } from "../../components/Button";
 import { Card } from "../../components/Card";
 import { Container } from "../../components/Container";
+import Memorial from "../../components/Memorial";
 import {
   InstagramIcon,
   XIcon,
@@ -259,6 +260,7 @@ export default async function Home({ params: { locale } }) {
           </div>
         </div>
       </Container>
+      <Memorial />
     </TranslationsProvider>
   );
 }
