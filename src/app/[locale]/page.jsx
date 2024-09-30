@@ -26,7 +26,7 @@ import initTranslations from "../i18n";
 import TranslationsProvider from "../../components/TranslationsProvider";
 import SponsorEmailForm from "../../components/SponsorEmailForm";
 import { getAllArticles } from "../../utils/articles";
-// import LanguageChanger from "../../components/LanguageChanger";
+// import LanguageChanger from "../../components/LanguageChanger"
 
 const i18nNamespaces = ["home", "common"];
 
